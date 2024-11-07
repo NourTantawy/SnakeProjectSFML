@@ -1,0 +1,42 @@
+﻿  SFML_Project.cpp
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(34,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(36,64): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(36,64): warning C4244:         with
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(36,64): warning C4244:         [
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(36,64): warning C4244:             T=float
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(36,64): warning C4244:         ]
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(36,54): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(36,54): warning C4244:         with
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(36,54): warning C4244:         [
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(36,54): warning C4244:             T=float
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(36,54): warning C4244:         ]
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(38,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(38,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(122,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(122,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(127,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(127,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(138,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(141,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(141,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(183,31): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(183,31): warning C4244:         with
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(183,31): warning C4244:         [
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(183,31): warning C4244:             T=int
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(183,31): warning C4244:         ]
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(184,31): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(184,31): warning C4244:         with
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(184,31): warning C4244:         [
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(184,31): warning C4244:             T=int
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(184,31): warning C4244:         ]
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(187,39): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(190,39): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(194,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(194,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(201,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(201,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(218,24): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(218,76): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(245,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\SFML_Project.cpp(245,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML_Project.vcxproj -> C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML-Structured\Debug\SFML_Project.exe

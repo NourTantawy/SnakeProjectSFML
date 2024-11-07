@@ -1,0 +1,61 @@
+﻿  Collectible.cpp
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\Collectible.cpp(19,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\Collectible.cpp(19,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\Collectible.cpp(36,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game.cpp
+  MovingObstacle.cpp
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\MovingObstacle.cpp(17,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\MovingObstacle.cpp(18,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\MovingObstacle.cpp(35,35): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\MovingObstacle.cpp(35,35): warning C4244:         with
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\MovingObstacle.cpp(35,35): warning C4244:         [
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\MovingObstacle.cpp(35,35): warning C4244:             T=int
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\MovingObstacle.cpp(35,35): warning C4244:         ]
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\MovingObstacle.cpp(36,35): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\MovingObstacle.cpp(36,35): warning C4244:         with
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\MovingObstacle.cpp(36,35): warning C4244:         [
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\MovingObstacle.cpp(36,35): warning C4244:             T=int
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\MovingObstacle.cpp(36,35): warning C4244:         ]
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\MovingObstacle.cpp(45,53): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\MovingObstacle.cpp(45,53): warning C4244:         with
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\MovingObstacle.cpp(45,53): warning C4244:         [
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\MovingObstacle.cpp(45,53): warning C4244:             T=int
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\MovingObstacle.cpp(45,53): warning C4244:         ]
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\MovingObstacle.cpp(55,53): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\MovingObstacle.cpp(55,53): warning C4244:         with
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\MovingObstacle.cpp(55,53): warning C4244:         [
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\MovingObstacle.cpp(55,53): warning C4244:             T=int
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\MovingObstacle.cpp(55,53): warning C4244:         ]
+  Snake.cpp
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\Snake.cpp(7,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\Snake.cpp(7,59): warning C4244:         with
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\Snake.cpp(7,59): warning C4244:         [
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\Snake.cpp(7,59): warning C4244:             T=float
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\Snake.cpp(7,59): warning C4244:         ]
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\Snake.cpp(7,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\Snake.cpp(7,47): warning C4244:         with
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\Snake.cpp(7,47): warning C4244:         [
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\Snake.cpp(7,47): warning C4244:             T=float
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\Snake.cpp(7,47): warning C4244:         ]
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\Snake.cpp(173,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\Snake.cpp(173,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\Snake.cpp(178,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\Snake.cpp(178,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SnakeProjectSFML.cpp
+  World.cpp
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\World.cpp(29,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\World.cpp(31,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\World.cpp(31,56): warning C4244:         with
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\World.cpp(31,56): warning C4244:         [
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\World.cpp(31,56): warning C4244:             T=float
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\World.cpp(31,56): warning C4244:         ]
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\World.cpp(31,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\World.cpp(31,43): warning C4244:         with
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\World.cpp(31,43): warning C4244:         [
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\World.cpp(31,43): warning C4244:             T=float
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\World.cpp(31,43): warning C4244:         ]
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\World.cpp(32,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\World.cpp(32,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\World.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  SFML_Project.vcxproj -> C:\Users\Admin\Documents\GitHub\SnakeProjectSFML\SnakeProjectSFML\Debug\SFML_Project.exe
